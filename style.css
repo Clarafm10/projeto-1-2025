@@ -18,8 +18,8 @@ moldura{
     height: 24px ;
     background-color: #365C52 ;
 }
-.primeira_secao{
-    width:432px ;
+.segunda_secao{
+    width:440px ;
     height: 441px ;
     background-color: greenyellow ;
 }
@@ -33,7 +33,7 @@ moldura{
     height: 30px ;
     background-color: #365C52 ;
 }
-.primeira_secao{
+.terceira_secao{
     width:440px ;
     height: 149px ;
     background-color: greenyellow ;

@@ -13,3 +13,18 @@ moldura{
     height: 251px ;
     background-color: green ;
 }
+.cabecalho{
+    width:440px ;
+    height: 24px ;
+    background-color: #365C52 ;
+}
+.primeira_secao{
+    width:440px ;
+    height: 441px ;
+    background-color: greenyellow ;
+}
+moldura{
+    width: 334px;
+    height: 334px ;
+    background-color: green ;
+}

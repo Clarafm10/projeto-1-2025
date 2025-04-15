@@ -13,6 +13,12 @@
     height: 251px ;
     background-color: green ;
 }
+.tamanhoimagem{
+  width: 223px;
+  height: 223px;
+
+}
+
 .cabecalho{
     width:440px ;
     height: 24px ;
@@ -27,6 +33,12 @@
     width: 341px;
     height: 319px ;
     background-color: green ;
+
+}
+.tamanhoimagem{
+ width: 310;
+ height: 289;
+
 }
 .cabecalho{
     width:440px ;
@@ -42,4 +54,9 @@
     width: 105px;
     height: 101px ;
     background-color: green ;
+}
+.tamanhoimagem{
+ width: 80;
+ height: 80;
+
 }

@@ -8,7 +8,7 @@
     height: 291px ;
     background-color: greenyellow ;
 }
-moldura{
+.retangulo{
     width: 253px;
     height: 251px ;
     background-color: green ;
@@ -23,7 +23,7 @@ moldura{
     height: 441px ;
     background-color: greenyellow ;
 }
-moldura{
+.retangulo{
     width: 334px;
     height: 334px ;
     background-color: green ;
@@ -38,7 +38,7 @@ moldura{
     height: 149px ;
     background-color: greenyellow ;
 }
-moldura{
+.retangulo{
     width: 105px;
     height: 101px ;
     background-color: green ;

@@ -1,62 +1,72 @@
-.cabecalho{
-    width:440px ;
-    height: 19px ;
-    background-color: #365C52 ;
+.cabecalho {
+    width: 440px;
+    height: 19px;
+    background-color: #365C52;
 }
-.primeira_secao{
-    width:440px ;
-    height: 291px ;
-    background-color: greenyellow ;
+
+.primeira_secao {
+    width: 440px;
+    height: 291px;
+    background-color: greenyellow;
 }
-.retangulo{
+
+.retangulo {
     width: 253px;
-    height: 251px ;
-    background-color: green ;
+    height: 251px;
+    background-color: green;
 }
-.tamanhoimagem{
-  width: 223px;
-  height: 223px;
+
+.tamanhoimagem {
+    width: 223px;
+    height: 223px;
 
 }
 
-.cabecalho{
-    width:440px ;
-    height: 24px ;
-    background-color: #365C52 ;
+.cabecalho {
+    width: 440px;
+    height: 24px;
+    background-color: #365C52;
 }
-.segunda_secao{
-    width:440px ;
-    height: 441px ;
-    background-color: greenyellow ;
+
+.segunda_secao {
+    width: 440px;
+    height: 441px;
+    background-color: greenyellow;
 }
-.retangulo{
+
+.retangulo {
     width: 341px;
-    height: 319px ;
-    background-color: green ;
+    height: 319px;
+    background-color: green;
 
 }
-.tamanhoimagem{
- width: 310;
- height: 289;
+
+.tamanhoimagem {
+    width: 310;
+    height: 289;
 
 }
-.cabecalho{
-    width:440px ;
-    height: 30px ;
-    background-color: #365C52 ;
+
+.cabecalho {
+    width: 440px;
+    height: 30px;
+    background-color: #365C52;
 }
-.terceira_secao{
-    width:440px ;
-    height: 149px ;
-    background-color: greenyellow ;
+
+.terceira_secao {
+    width: 440px;
+    height: 149px;
+    background-color: greenyellow;
 }
-.retangulo{
+
+.retangulo {
     width: 105px;
-    height: 101px ;
-    background-color: green ;
+    height: 101px;
+    background-color: green;
 }
-.tamanhoimagem{
- width: 80;
- height: 80;
+
+.tamanhoimagem {
+    width: 80;
+    height: 80;
 
 }

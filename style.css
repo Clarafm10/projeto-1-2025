@@ -14,12 +14,13 @@
     width: 253px;
     height: 251px;
     background-color: green;
+    align-items: center;
 }
 
 .tamanhoimagem {
     width: 223px;
     height: 223px;
-
+   align-items: center;
 }
 
 .cabecalho {

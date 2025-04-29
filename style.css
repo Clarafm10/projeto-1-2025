@@ -14,7 +14,7 @@
     width: 253px;
     height: 251px;
     background-color: green;
-    text-align: center;
+    align-items: center;
 }
 
 .tamanhoimagem {
@@ -39,7 +39,7 @@
     width: 341px;
     height: 319px;
     background-color: green;
-    text-align: center;
+    align-items: center;
 }
 
 .tamanhoimagem {
@@ -64,7 +64,7 @@
     width: 105px;
     height: 101px;
     background-color: green;
-    text-align: center;
+    align-items: center;
 }   
 
 .tamanhoimagemrodape {

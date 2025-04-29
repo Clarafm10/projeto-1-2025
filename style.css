@@ -20,7 +20,7 @@
 .tamanhoimagem {
     width: 223px;
     height: 223px;
-   align-items: center;
+   text-align: center;
 }
 
 .cabecalho {
@@ -39,13 +39,13 @@
     width: 341px;
     height: 319px;
     background-color: green;
-
+    text-align: center;
 }
 
 .tamanhoimagem {
     width: 310;
     height: 289;
-
+   text-align: center;
 }
 
 .cabecalho {
@@ -64,10 +64,11 @@
     width: 105px;
     height: 101px;
     background-color: green;
-}
+    text-align: center;
+}   
 
 .tamanhoimagemrodape {
     width: 80;
     height: 80;
-
+   text-align: center;
 }
